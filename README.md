@@ -3,7 +3,7 @@
 Este é um projeto desenvolvido como parte de um desafio proposto pelo [Frontend Mentor](https://www.frontendmentor.io/). O objetivo é recriar um componente de QR Code com fidelidade visual ao design proposto, utilizando apenas HTML e CSS.
 
 ## 🔍 Pré-visualização
-![Preview do componente](./images/image-qr-code.png)
+![Preview do componente](./images/preview.jpg)
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5
