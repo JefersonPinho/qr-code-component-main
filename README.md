@@ -14,7 +14,7 @@ Este é um projeto desenvolvido como parte de um desafio proposto pelo [Frontend
 O layout foi desenvolvido com técnicas responsivas, adaptando-se bem a diferentes tamanhos de tela, especialmente dispositivos móveis com largura até 375px.
 
 ## 📁 Estrutura do Projeto
-
+```bash
 /
 ├── images/
 │   └── image-qr-code.png
@@ -22,14 +22,14 @@ O layout foi desenvolvido com técnicas responsivas, adaptando-se bem a diferent
 ├── index.html
 ├── style.css
 └── README.md
-
+```
 
 
 ## 🚀 Como Visualizar Localmente
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
+   ```
 2. Acesse a pasta:
 
    ```bash
