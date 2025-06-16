@@ -18,6 +18,7 @@ O layout foi desenvolvido com técnicas responsivas, adaptando-se bem a diferent
 /
 ├── images/
 │   └── image-qr-code.png
+|── └── preview.jpg
 ├── index.html
 ├── style.css
 └── README.md
